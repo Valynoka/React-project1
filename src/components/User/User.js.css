@@ -1,0 +1,32 @@
+.user__title{
+    color: #882426;
+    margin-bottom: 20px;
+}
+
+.user__loading{
+    color: #882426;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.user__photo{
+    width: 25%;
+    border-radius: 15px;
+    position: relative;
+    margin-bottom: 20px;
+    transition: transform 0.5s ease-in-out;
+    cursor: pointer;
+}
+
+.user__photo:hover{
+    transform: rotate(90deg);
+    transform: rotate(-30deg);
+}
+
+
+.user__text{
+    color: #882426;
+    font-size: 1rem;
+    font-weight: bold;
+}
+

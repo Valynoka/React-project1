@@ -1,0 +1,17 @@
+.footer{
+    background-color: #323030;
+    padding: 25px;
+}
+
+.footer__link{
+    text-decoration: none;
+    color: #C29545;
+    width: 100%;
+    font-size: 100%;
+    font-weight: bold;
+    transition: 0.5s;
+}
+
+.footer__link:hover{
+    color: #882426;
+}
